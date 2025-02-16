@@ -1,4 +1,5 @@
 # About
+![graph_sample](https://github.com/user-attachments/assets/2ae745d7-a948-48c6-9458-7082ca03c7bd)
 This project solves optimization of grouping with weights.
 
 Primarily uses the following modules:
