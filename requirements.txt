@@ -3,3 +3,4 @@ dwave-ocean-sdk
 numpy
 pyqubo
 matplotlib
+matplotlib-inline
