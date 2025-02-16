@@ -1,4 +1,5 @@
 openjij
+dwave-ocean-sdk
 numpy
 pyqubo
 matplotlib
