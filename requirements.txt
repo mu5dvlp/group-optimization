@@ -1,6 +1,7 @@
 openjij
 dwave-ocean-sdk
 numpy
+networkx
 pyqubo
 matplotlib
 matplotlib-inline
